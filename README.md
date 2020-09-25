@@ -96,13 +96,3 @@ var newColor = getRandomColor(); // #E943F0
 <li>Lucas</li>
 </ul>
 
-<h3>Exercício #4</h3>
-<p>Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:</p>
-<pre><code><input type="text" name="nome">
-<button onClick="adicionar()">Adicionar</button>
-</code></pre>
-<p>Ao clicar no botão, a função adicionar() deve ser disparada adicionando um novo item a lista de
-nomes baseado no nome preenchido no input e renderizando o novo item em tela juntos aos
-demais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.</p>
-
-
