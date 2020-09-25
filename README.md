@@ -1,5 +1,5 @@
 # Javascript-Rocketseat
-This project is the final exercises of each Rocketseat Javascript course module JavaScript Starter 🎓
+This project is the final exercises of each Rocketseat Javascript course module <a href="https://skylab.rocketseat.com.br/journey/starter" rel="nofollow">JavaScript Starter</a> 🖥️🚀
 
 <h2>Exercícios Módulo 01 - Introdução JavaScript </h2>
 <h3>Exercício #1</h3>
