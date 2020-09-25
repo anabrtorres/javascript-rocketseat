@@ -64,3 +64,45 @@ habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
 <p><code>O Diego possui as habilidades: Javascript, ReactJS, Redux O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir</code></p>
 <p><em>Dica: Para percorrer um vetor você deve utilizar a sintaxe for...of e para unir valores de um array
 com um separador utilize o join.</em></p>
+
+
+<h2>Exercícios: Módulo 02</h2>
+<h3>Exercício #1</h3>
+<p>Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de um quadrado
+vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
+aparecer na tela.</p>
+
+<h3>Exercício #2</h3>
+<p>Utilizando o resultado do primeiro desafio, toda vez que o usuário passar o mouse por cima de
+algum quadrado troque sua cor para uma cor aleatória gerada pela função abaixo:</p>
+<pre><code>function getRandomColor() {
+ var letters = "0123456789ABCDEF";
+ var color = "#";
+ for (var i = 0; i < 6; i++) {
+ color += letters[Math.floor(Math.random() * 16)];
+ }
+ return color;
+}
+var newColor = getRandomColor(); // #E943F0
+</code></pre>
+
+<h3>Exercício #3</h3>
+<p>A partir do seguinte vetor:</p>
+<pre><code> var nomes = ["Diego", "Gabriel", "Lucas"]; </code></pre>
+<p>Preencha uma lista ul no HTML com os itens da seguinte forma:</p>
+<ul>
+<li>Diego</li>
+<li>Gabriel</li>
+<li>Lucas</li>
+</ul>
+
+<h3>Exercício #4</h3>
+<p>Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:</p>
+<pre><code><input type="text" name="nome">
+<button onClick="adicionar()">Adicionar</button>
+</code></pre>
+<p>Ao clicar no botão, a função adicionar() deve ser disparada adicionando um novo item a lista de
+nomes baseado no nome preenchido no input e renderizando o novo item em tela juntos aos
+demais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.</p>
+
+
