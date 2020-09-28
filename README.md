@@ -108,7 +108,37 @@ demais itens anteriores. Além disso, o conteúdo do input deve ser apagado apó
 
 <h2>Exercícios Módulo 03 - App de Todos </h2>
 <h3>Exercício #1</h3>
-<p>Crie um aplicativo de to-dos utilizando JavaStript e HTML</p>
+<p>Faça uma lista de to-do com os seguintes elementos:</p>
+<pre><code>var todos = [
+    'Fazer café',
+    'Estudar Javascrpt',
+    'Acesar curriculo'
+];
+</code></pre>
+<h3>Exercício #2</h3>
+<p>Faça a renderização dos to-dos utilizando uma função.</p>
+<pre><code>function renderTodos() {
+    // Renderize os to-dos
+}renderTodos();
+</code></pre>
+<h3>Exercício #3</h3>
+<p>Adicione um input e um button para adicionar novos to-dos à lista quando o botão é clicado.</p>
+<pre><code>function addTodo() {
+    // Adicione um to-do
+}buttonElement.onclick = addTodo;
+</code></pre>
+<h3>Exercício #4</h3>
+<p>Inclua a função de deletar to-dos quando selecionado.</p>
+<pre><code>function deleteTodo(pos) {
+    // Delete um to-do
+}
+</code></pre>
+<h3>Exercício #5</h3>
+<p>Salve os dados no armazenamento local usando o Storage.</p>
+<pre><code>function saveToStorage() {    
+    // Salve no Storage
+}
+</code></pre>
 
 
 <h2>Exercícios: Módulo 04 - JS Assíncrono</h2>
