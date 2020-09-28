@@ -66,7 +66,7 @@ habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
 com um separador utilize o join.</em></p>
 
 
-<h2>Exercícios: Módulo 02</h2>
+<h2>Exercícios: Módulo 02 - Manipulando a DOM</h2>
 <h3>Exercício #1</h3>
 <p>Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de um quadrado
 vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
@@ -105,7 +105,13 @@ var newColor = getRandomColor(); // #E943F0
 nomes baseado no nome preenchido no input e renderizando o novo item em tela juntos aos
 demais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.</p>
 
-<h2>Exercícios: Módulo 04</h2>
+
+<h2>Exercícios Módulo 03 - App de Todos </h2>
+<h3>Exercício #1</h3>
+<p>Crie um aplicativo de to-dos utilizando JavaStript e HTML</p>
+
+
+<h2>Exercícios: Módulo 04 - JS Assíncrono</h2>
 <h3>Exercício #1</h3>
 <p>Crie uma função que recebe a idade de um usuário e retorna uma Promise que depois de 2
 segundos retornará se usuário é maior ou não que 18 anos. Se o usuário ter mais que 18 anos de
