@@ -43,9 +43,52 @@ btnElement.onclick = function() {
 
 
 // EXERCISE #3
+var listElement = document.querySelector('#app ul');
+var myList = [
+    'Diego',
+    'Gabriel',
+    'Lucas'
+];
 
+function renderList() {
+    for(name of myList) {
+        var itenElement = document.createElement('li');
+        var listText = document.createTextNode(name);
+        itenElement.appendChild(listText);
+        listElement.appendChild(itenElement);
+    }
+}
+renderList();
 
 
 // EXERCISE #4
+var listElement = document.querySelector('#app ul');
+var inputElement = document.querySelector('#app input');
+var myList = [
+    'Diego',
+    'Gabriel',
+    'Lucas'
+];
+
+function renderList() {
+    listElement.innerHTML = '';
+
+    for(name of myList) {
+        var itenElement = document.createElement('li');
+        var listText = document.createTextNode(name);
+
+        itenElement.appendChild(listText);
+        listElement.appendChild(itenElement);
+    }
+}
+renderList();
+
+function newName() {
+    var listText = inputElement.value;
+
+    myList.push(listText);
+    inputElement.value = '';
+    renderList();
+}
 
 
