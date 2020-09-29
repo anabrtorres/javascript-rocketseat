@@ -7,7 +7,7 @@
 <p><a href="#mod4">		#4 - JS Assíncrono</a></p>
 
 
-<div id="mod1"><h2>Exercícios Módulo 01 - Introdução JavaScript </h2></div>
+<div id="mod1"><h2>Módulo 01 - Introdução JavaScript </h2></div>
 <h3>Exercício #1</h3>
 <p>Crie uma função que dado o objeto a seguir:</p>
 <pre><code>var endereco = {
@@ -72,7 +72,7 @@ habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
 com um separador utilize o join.</em></p>
 
 
-<div id="mod2"><h2>Exercícios: Módulo 02 - Manipulando a DOM</h2></div>
+<div id="mod2"><h2>Módulo 02 - Manipulando a DOM</h2></div>
 <h3>Exercício #1</h3>
 <p>Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de um quadrado
 vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
@@ -112,7 +112,7 @@ nomes baseado no nome preenchido no input e renderizando o novo item em tela jun
 demais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.</p>
 
 
-<div id="mod3"><h2>Exercícios Módulo 03 - App de To-Dos </h2><div>
+<div id="mod3"><h2>Módulo 03 - App de To-Dos </h2><div>
 <h3>Exercício #1</h3>
 <p>Faça uma lista de to-do com os seguintes elementos:</p>
 <pre><code>var todos = [
@@ -147,7 +147,7 @@ demais itens anteriores. Além disso, o conteúdo do input deve ser apagado apó
 </code></pre>
 
 
-<div id="mod4"><h2>Exercícios: Módulo 04 - JS Assíncrono</h2></div>
+<div id="mod4"><h2>Módulo 04 - JS Assíncrono</h2></div>
 <h3>Exercício #1</h3>
 <p>Crie uma função que recebe a idade de um usuário e retorna uma Promise que depois de 2
 segundos retornará se usuário é maior ou não que 18 anos. Se o usuário ter mais que 18 anos de
