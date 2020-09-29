@@ -1,9 +1,10 @@
 # JavaScript | Rocketseat
 <p>Final exercises of each Rocketseat Javascript course module <a href="https://skylab.rocketseat.com.br/journey/starter" rel="nofollow">JavaScript Starter</a> 🖥️🚀</p>
-<h3><a href="#mod1">#1 - Introdução JavaScript</a></h3>
-<h3><a href="#mod2">#2 - Manipulando a DOM</a></h3>
-<h3><a href="#mod3">#3 - App de To-Dos</a></h3>
-<h3><a href="#mod4">#4 - JS Assíncrono</a></h3>
+
+<p><a href="#mod1">#1 - Introdução JavaScript</a></p>
+<p><a href="#mod2">#2 - Manipulando a DOM</a></p>
+<p><a href="#mod3">#3 - App de To-Dos</a></p>
+<p><a href="#mod4">#4 - JS Assíncrono</a></p>
 
 
 <div id="mod1"><h2>Exercícios Módulo 01 - Introdução JavaScript </h2></div>
