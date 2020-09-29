@@ -1,7 +1,12 @@
-# Javascript-Rocketseat
-Final exercises of each Rocketseat Javascript course module <a href="https://skylab.rocketseat.com.br/journey/starter" rel="nofollow">JavaScript Starter</a> 🖥️🚀
+# JavaScript | Rocketseat
+<p>Final exercises of each Rocketseat Javascript course module <a href="https://skylab.rocketseat.com.br/journey/starter" rel="nofollow">JavaScript Starter</a> 🖥️🚀</p>
+<h3><a href="#mod1">#1 - Introdução JavaScript</a></h3>
+<h3><a href="#mod2">#2 - Manipulando a DOM</a></h3>
+<h3><a href="#mod3">#3 - App de To-Dos</a></h3>
+<h3><a href="#mod4">#4 - JS Assíncrono</a></h3>
 
-<h2>Exercícios Módulo 01 - Introdução JavaScript </h2>
+
+<div id="mod1"><h2>Exercícios Módulo 01 - Introdução JavaScript </h2></div>
 <h3>Exercício #1</h3>
 <p>Crie uma função que dado o objeto a seguir:</p>
 <pre><code>var endereco = {
@@ -66,7 +71,7 @@ habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
 com um separador utilize o join.</em></p>
 
 
-<h2>Exercícios: Módulo 02 - Manipulando a DOM</h2>
+<div id="mod2"><h2>Exercícios: Módulo 02 - Manipulando a DOM</h2></div>
 <h3>Exercício #1</h3>
 <p>Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de um quadrado
 vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
@@ -106,7 +111,7 @@ nomes baseado no nome preenchido no input e renderizando o novo item em tela jun
 demais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.</p>
 
 
-<h2>Exercícios Módulo 03 - App de Todos </h2>
+<div id="mod3"><h2>Exercícios Módulo 03 - App de To-Dos </h2><div>
 <h3>Exercício #1</h3>
 <p>Faça uma lista de to-do com os seguintes elementos:</p>
 <pre><code>var todos = [
@@ -141,7 +146,7 @@ demais itens anteriores. Além disso, o conteúdo do input deve ser apagado apó
 </code></pre>
 
 
-<h2>Exercícios: Módulo 04 - JS Assíncrono</h2>
+<div id="mod4"><h2>Exercícios: Módulo 04 - JS Assíncrono</h2></div>
 <h3>Exercício #1</h3>
 <p>Crie uma função que recebe a idade de um usuário e retorna uma Promise que depois de 2
 segundos retornará se usuário é maior ou não que 18 anos. Se o usuário ter mais que 18 anos de
