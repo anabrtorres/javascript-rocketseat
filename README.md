@@ -1,5 +1,5 @@
 # JavaScript | Rocketseat
-<p>Final exercises of each Rocketseat Javascript course module <a href="https://skylab.rocketseat.com.br/journey/starter" rel="nofollow">JavaScript Starter</a> 🖥️🚀</p>
+<p>Exercises from Module 1 to 4 of the Rocketseat <a href="https://skylab.rocketseat.com.br/journey/starter" rel="nofollow">JavaScript Starter</a> 🖥️🚀</p>
 
 <ol>
 <a href="#mod1"><li>Introdução JavaScript</li></a>
